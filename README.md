@@ -1,11 +1,11 @@
-<h2> - Hello, my name is José and this is my profile on github!<br/>
+<h3> - Hello, my name is José and this is my profile on github!<br/>
 - I'm a full stack developer, and i'm currently working on my Back-End development skills with Python and Django.<br/>
 - I'm currently looking for a job.<br/>
 - Contact me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-henrique-559270218/)
 [![LinkedIn](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-henrique-559270218/)
-<h2/>
+<h3/>
 
 ![Jose GitHub stats](https://github-readme-stats.vercel.app/api?username=zimwolfgang7k&show_icons=true&theme=tokyonight)
 
