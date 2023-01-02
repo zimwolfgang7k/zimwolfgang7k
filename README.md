@@ -2,14 +2,14 @@
 - I'm a full stack developer, and i'm currently working on my Back-End development skills with Python and Django.<br/>
 - I'm currently looking for a job.<br/>
 - Contact me:
-
+<br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-henrique-559270218/)
 [![LinkedIn](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-henrique-559270218/)
 <h3/>
 
 ![Jose GitHub stats](https://github-readme-stats.vercel.app/api?username=zimwolfgang7k&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zimwolfgang7k&layout=compact&&langs_count=4)](https://github.com/zimwolfgang7k/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zimwolfgang7k&layout=compact&&langs_count=4)](https://github.com/zimwolfgang7k/)
 
 ---
 
