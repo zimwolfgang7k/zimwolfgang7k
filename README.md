@@ -9,7 +9,7 @@
 
 ![Jose GitHub stats](https://github-readme-stats.vercel.app/api?username=zimwolfgang7k&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zimwolfgang7k&layout=compact&&langs_count=4)](https://github.com/zimwolfgang7k/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zimwolfgang7k&layout=compact&&langs_count=4)](https://github.com/zimwolfgang7k/)
 
 ---
 
